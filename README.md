@@ -98,7 +98,14 @@ By improving emergency response efficiency and optimizing hospital resource util
 
 ## Demo
 
+Video Presentation Link:
+
 https://drive.google.com/file/d/1NfihXMQjXwSSvMRrjlW_-5hZgox4bFCc/view?usp=drive_link
+
+
+Prototype:
+<img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/b8035cbb-d5a6-4640-a91b-0a0eb4190097" />
+
 
 ---
 
